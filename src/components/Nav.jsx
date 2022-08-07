@@ -25,9 +25,6 @@ const Nav = () => {
         <img src={logo} alt="" className="w-36 duration-500 transition-all" />
         <nav className="flex gap-6 items-center relative transition-all duration-500">
           <a className="duration-500" href="hh">
-            Home
-          </a>
-          <a className="duration-500" href="hh">
             Menu
           </a>
           <a className="duration-500" href="hh">
