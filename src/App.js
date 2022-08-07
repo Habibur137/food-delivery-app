@@ -1,5 +1,11 @@
+import { Layout, Home } from "./components/exportComponent";
+
 function App() {
-  return <div>hello</div>;
+  return (
+    <Layout>
+      <Home />
+    </Layout>
+  );
 }
 
 export default App;
